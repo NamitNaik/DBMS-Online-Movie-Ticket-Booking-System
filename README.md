@@ -4,3 +4,5 @@ library of Python. The main objective of this project is to manage details of Mo
 Ticket, Customer, Show, Timing. The project is totally based at administrative end and
 thus only the administrator is guaranteed the access. The purpose of the project is to build
 an application program to reduce the manual work for managing the information.
+
+![Online Movie Ticket Booking System](https://github.com/NamitNaik/DBMS-Online-Movie-Ticket-Booking-System/blob/master/Screenshots/OMTBS.PNG)
